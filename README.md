@@ -1,5 +1,7 @@
 # node-detective-postcss
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/joscha/node-detective-postcss.svg)](https://greenkeeper.io/)
+
 > Find the dependencies of a CSS file (postCSS dialects)
 
 `npm install --save detective-postcss`
